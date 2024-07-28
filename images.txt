@@ -1,1 +1,1 @@
-flaresolverr/flaresolverr:latest
+19970688/nastools-bt:latest
