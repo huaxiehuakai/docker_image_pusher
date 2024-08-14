@@ -1,1 +1,1 @@
-ailg/alist:latest
+nevinee/qbittorrent:latest
